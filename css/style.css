@@ -15,7 +15,6 @@ a {
   display: flex;
   /* background-color: rgba(102, 205, 170); */
   background-image: url("/meisai.jpg");
-  margin-top: 50px;
   justify-content: space-between;
   padding: 3% 20%;
 }
@@ -23,7 +22,7 @@ a {
 .container { 
   display: flex;
   justify-content: center;
-  padding: 200px 0; 
+  padding: 150px 0; 
   align-items: center
 
 }
